@@ -23,3 +23,11 @@ build:
   parallel: true
   project: libsodium.vcxproj
   verbosity: minimal
+
+artifacts:
+  - path: libsodium.lib
+    name: libsodium static library
+    
+  - path: libsodium.dll
+    name: libsodium dynamic library
+    
