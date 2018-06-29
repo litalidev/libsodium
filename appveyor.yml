@@ -25,9 +25,12 @@ build:
   verbosity: minimal
 
 artifacts:
-  - path: libsodium.lib
+  - path: **\libsodium.lib
     name: libsodium static library
     
-  - path: libsodium.dll
+  - path: **\libsodium.dll
     name: libsodium dynamic library
+
+  - path: bin
+    name: libsodium binaries
     
