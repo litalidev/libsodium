@@ -1,5 +1,5 @@
 [![Build Status](https://travis-ci.org/jedisct1/libsodium.svg?branch=master)](https://travis-ci.org/jedisct1/libsodium?branch=master)
-[![Windows build status](https://ci.appveyor.com/api/projects/status/5ldgx99sl7en4mfs?svg=true)](https://ci.appveyor.com/project/litalidev/libsodium)
+[![Windows build status](https://ci.appveyor.com/api/projects/status/o7uad9sw5c64qpnb?svg=true)](https://ci.appveyor.com/project/litalidev/libsodium)
 [![Coverity Scan Build Status](https://scan.coverity.com/projects/2397/badge.svg)](https://scan.coverity.com/projects/2397)
 
 ![libsodium](https://raw.github.com/jedisct1/libsodium/master/logo.png)
